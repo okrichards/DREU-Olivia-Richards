@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Olivia Richards CRA-W DREU 2018 Experience
+
+# Summer at the University of Washington 
+
+Olivia Richards was matched with Dr. Julie Kientz at the University of Washington, in the department of Human Centered Design and Engineering.
+
 
 You can use the [editor on GitHub](https://github.com/okrichards/dreu2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
