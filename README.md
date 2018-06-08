@@ -8,11 +8,6 @@ Olivia Richards was matched with [Dr. Julie Kientz](juliekientz.com) at the Univ
 
 ![](DSC_0970.jpg)
 
-```markdown
-
-[Link](url) and ![Image](src)
-```
-
 ### Connect with Olivia
 Email: orichards at psu dot edu
 
