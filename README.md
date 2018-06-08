@@ -12,3 +12,10 @@ Olivia Richards was matched with [Dr. Julie Kientz](juliekientz.com) at the Univ
 Email: orichards at psu dot edu
 
 [LinkedIn](https://www.linkedin.com/in/richardsolivia/)
+
+### Lessons Learned
+
+Blog Date | Lessons
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
