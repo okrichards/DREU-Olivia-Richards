@@ -14,8 +14,9 @@ Email: orichards at psu dot edu
 [LinkedIn](https://www.linkedin.com/in/richardsolivia/)
 
 ### Summer 2018 Blog
+Leasons Learned are **bolded**
 
-Blog Date | Blog | Lessons Learned
--------------------| -------------------- |-------------------
-0:    **6/3/18**    | I was confused as to how one can tar file all of the files from a repository which is a requirement of the program for the 2nd stipend. I clicked a random 2017 DREU participants website. I noticed that she used a github repository as her host. I saw that she left her contact information on the web page and decided to reach out. Why not, right? The worst that’ll happen is that she wouldn’t respond.  She responded immediately. “Okay, so if you have a Mac, go where you store the folder with all your website documents. Do you know how to use terminal? If so, change to the location where this folder is, and run this command: tar czf folder_name.tar folder_name   This will create a tar file of all your documents.” This was incredibly helpful. Thank you Sarah!  | (before stepping foot in WA): Don’t be afraid to ask for help. Reach out to others when you are unsure of something and have Google searched yourself. Try new things, even if they are scarily full of code.
+Blog Date | Blog
+-------------------| -------------------- 
+0:    **6/3/18**    | I was confused as to how one can tar file all of the files from a repository which is a requirement of the program for the 2nd stipend. I clicked a random 2017 DREU participants website. I noticed that she used a github repository as her host. I saw that she left her contact information on the web page and decided to reach out. Why not, right? The worst that’ll happen is that she wouldn’t respond.  She responded immediately. “Okay, so if you have a Mac, go where you store the folder with all your website documents. Do you know how to use terminal? If so, change to the location where this folder is, and run this command: tar czf folder_name.tar folder_name   This will create a tar file of all your documents.” This was incredibly helpful. Thank you Sarah!  (before stepping foot in WA): **Don’t be afraid to ask for help. Reach out to others when you are unsure of something and have Google searched yourself. Try new things, even if they are scarily full of code.**
 1:   **6/8/18**    | Content in the second column | third
