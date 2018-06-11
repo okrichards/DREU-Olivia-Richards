@@ -13,9 +13,7 @@ Email: orichards at psu dot edu
 
 [LinkedIn](https://www.linkedin.com/in/richardsolivia/)
 
-### Summer 2018 Blog
-
-Leasons Learned are *italicized*
+### Blog: *Leasons Learned*
 
 Blog Date | Blog
 -------------------| -------------------- 
