@@ -5,7 +5,7 @@ As part of the 2018 [CRA-W DREU](https://cra.org/cra-w/dreu/) program, [Olivia R
 
 Olivia is a rising senior Mathematics student at the Pennsylvania State University, in University Park, Pennsylvania. She plans to complete her Bachelor's degree in Mathematics in May 2019 to then obtain her Ph.D. in Human-Centered Design and Computing from another research institution. 
 
-![Read Olivia's Final DREU Report](laptop.pdf)
+![Read Olivia's Final DREU Report](DREU_Final_Report(1).pdf)
 
 ![]( DSC_0970.jpg)
 
