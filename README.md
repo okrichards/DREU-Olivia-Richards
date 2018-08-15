@@ -11,8 +11,10 @@ Olivia is a rising senior Mathematics student at the Pennsylvania State Universi
 ![]( DSC_0970.jpg)
 
 ### Connect with Olivia
+
 [LinkedIn](https://www.linkedin.com/in/richardsolivia/)
-Email: orichards at psu dot edu
+
+Email: orichards@psu.edu
 
 ## Blog: *Leasons Learned*
 ### June 3, 2018
