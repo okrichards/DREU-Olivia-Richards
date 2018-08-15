@@ -16,6 +16,8 @@ Olivia is a rising senior Mathematics student at the Pennsylvania State Universi
 
 Email: orichards@psu.edu
 
+### I'd like to thank Dr. Julie Kientz, the Computing Research Association, the University of Washington and the Penn State Presidential Leadership Academy for supporting my summer research experience.
+
 ## Blog: *Leasons Learned*
 ### June 3, 2018
 
@@ -111,4 +113,4 @@ WOW! The summer flew by. I knew I'd say that.
 
 **Research:** This week flew by faster than I could’ve imagine. Early this week, I was a bit overwhelmed because I realized that my final report for the CRA-W required more writing that I anticipated. I spent most of my time this week expanding my project, which probably isn’t the best idea for the last week of the summer, but it’s okay because I will continue to collaborate on the project. We decided to actually add a survey to our overall methods to ask further questions as to the burdens and benefits that parents perceive from digital home assistants. So, on Monday, I created and built a survey on SurveyGizmo that we will deploy on Amazon Mechanical Turk. I worked on transcriptions of audio recordings of families usage of the Amazon Echo Dot’s, worked on writing my final report and our research team met and did some analysis of our transcription/usage data. This week, I went to my last two family interviews- so sad. It’s amazing to hear insights regarding tech design  from children and families who are completely new to Amazon Echo, and digital home assistants, in general.  I realized how beneficial it is to go to a families environment to ask questions about usage in their home. I truly enjoy working with new technology users and hope that my future research or future job will provide these opportunities.
 
-### I'd like to thank the Dr. Julie Kientz, the Computing Research Association, the University of Washington and the Penn State Presidential Leadership Academy for supporting my summer experience.
+### I'd like to thank Dr. Julie Kientz, the Computing Research Association, the University of Washington and the Penn State Presidential Leadership Academy for supporting my summer research experience.
