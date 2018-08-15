@@ -80,7 +80,7 @@ WOW! It's July. Holy Guacamole.
 
 ### Week 7- July 20, 2018
 
-**Weekend:** This past weekend, I went to the Ballard Seafoodfest! I ate some yummy scallops and explored the area! I also explored Green Lake. It's beautiful (photo above). 
+**Weekend:** This past weekend, I went to the Ballard Seafoodfest! I ate some yummy scallops and explored the area! I also explored Green Lake. It's beautiful.
 
 **Research:** To begin the week, I worked on the analyzing a paper papers for related work in the broader team’s literature review. Also, I transcribed several days of audio recordings from one family that is participating in the Echo deployment study. It’s funny how many times a child can listen to the same song over and over again!! In the middle of the week, I shifted focus to my individual project and I’m finally closing in on over 150 Amazon Reviews being coded. I’m going to continue to analyze my sample until I feel that i’ve reached saturation. I also went on another home visit for another family’s onboarding into the study. This time, I led interview and Dr. Kientz was there for support. Towards the end of the week, I met with two women from industry in the UX/HCI space, from Starbucks and Amazon. They were extremely helpful and I’m truly thankful for their time and expertise. Additionally, I worked more on analysis of Amazon reviews and I feel that my codebook is becoming more precise and effective. 
 
@@ -93,13 +93,15 @@ WOW! It's July. Holy Guacamole.
 
 **Lesson Learned:** This week, the heat pushed me to find new spaces to work since it was SUPER hot in our non-air conditioned lab on campus. So, I worked during one afternoon from a lounge chair on the deck of the Apple Store with a beautiful breeze and another morning from Seven Roasters coffee shop near my house. I was SUPER productive those days. If you can't focus in a particular environment, move! It's worth listening to your body to be successful. 
 
+![](IMG_2274.JPG)
+
 ### Week 9- August 3, 2018
 WOW! The summer flew by. I knew I'd say that.
 **Weekend:** Last weekend, I spent many hours working on my online portfolio and fixing my resume to submit it to the Grace Hopper database. I also had time to exercise and meet up with friends.
 
 **Research:** This week was AWESOME! It began with reviewing literature and transcribing audio recordings of the families using the Echo Dot’s in their homes. I can’t believe that we are wrapping up the study. I also interviewed a family in Seattle on Monday as part of their final interview, as they wrapped up one month with the device. Also, while traveling to the interview, I stopped at Mighty-O-Donuts and grabbed a French Toast donut, one I’ve wanted to try. It was delightful! - I’m starting to think that, although people tend to have a honeymoon phase with Echo/Google Home devices and then plateau in usage, they might need more time. Our low-to-middle income family participants are different in the sense that they have never used these devices before. Thus, they might need more time to engrain the technology into their home and find uses for it in everyday life that are valuable to them. I can’t wait to return home to my own Echo Dot!-- Also, this week was KidsTeam UW! I had the unique opportunity to co-design with children as part of the University of Washington KidsTeam which brings adult researchers and children, aged 7-11, together for a week to co-design in several projects spanning creepy technology, digital voice assistants, learning games, and designing with telepresence.  I spent 20 hours with them this week. We took the kids on a field trip to tour the stadiums (you bet I wore Penn State Gear!) I also had a chance to meet another (now PhD) researcher who did the same REU as me, a year later, and just accepted to the UW iSchool PhD program.
 
-**Lessons Learned:** Kids have a wealth of untapped knowledge. They simply need to be empowered to share. They are the experts at the child experience! Also, chat with anyone and everyone willing to talk. It’ll be worth your time. ![](IMG_2274.JPG)
+**Lessons Learned:** Kids have a wealth of untapped knowledge. They simply need to be empowered to share. They are the experts at the child experience! Also, chat with anyone and everyone willing to talk. It’ll be worth your time.
 
 ### Week 10- August 10, 2018
 
