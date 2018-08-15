@@ -16,8 +16,8 @@ Olivia is a rising senior Mathematics student at the Pennsylvania State Universi
 
 Email: orichards@psu.edu
 
-*I'd like to thank Dr. Julie Kientz, the Computing Research Association, the University of Washington and the Penn State Presidential Leadership Academy for supporting my summer research experience.*
-
+### I'd like to thank Dr. Julie Kientz, the Computing Research Association, the University of Washington and the Penn State Presidential Leadership Academy for supporting my summer research experience.
+----------------------------------------------
 ## Blog: *Leasons Learned*
 ### June 3, 2018
 
