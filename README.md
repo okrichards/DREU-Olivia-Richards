@@ -102,7 +102,7 @@ WOW! The summer flew by. I knew I'd say that.
 
 **Lessons Learned:** Kids have a wealth of untapped knowledge. They simply need to be empowered to share. They are the experts at the child experience! Also, chat with anyone and everyone willing to talk. It’ll be worth your time. ![](IMG_2274.JPG)
 
-### Week 10~ish- August 10, 2018
+### Week 10- August 10, 2018
 
 **Weekend:** This weekend, my cousin flew into Seattle to spend time. She and I traveled down to Portland for her to run a half marathon. Before, and after her run, we had the chance to explore Portland! It was….weird to say the least! Food in the Pacific Northwest is fabulous though. I truly enjoyed our visit. 
 ![](IMG_2372.JPG) ![](IMG_2401.JPG)
